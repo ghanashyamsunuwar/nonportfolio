@@ -51,7 +51,7 @@ function App() {
             {...fadeIn}
             transition={{ delay: 0.2 }}
           >
-            Frontend Developer (ReactJS)
+            Frontend Developer (React JS)
           </motion.p>
           <motion.div 
             className="flex justify-center space-x-4"
